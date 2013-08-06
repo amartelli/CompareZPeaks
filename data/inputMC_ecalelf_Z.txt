@@ -1,0 +1,3 @@
+/gwteray/users/benaglia/CALIBRATION/NTUPLES_ecalelf/MC/DYJets-Summer12-START53-ZSkim-runDependent-194533-194533.root
+/gwteray/users/benaglia/CALIBRATION/NTUPLES_ecalelf/MC/DYJets-Summer12-START53-ZSkim-runDependent-200519-200519.root
+/gwteray/users/benaglia/CALIBRATION/NTUPLES_ecalelf/MC/DYJets-Summer12-START53-ZSkim-runDependent-206859-206859.root
