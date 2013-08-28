@@ -1,1 +1,0 @@
-/gwteray/users/benaglia/CALIBRATION/NTUPLES_ecalelf/MC/DYJets-Summer12-START53-ZSkim-allRange.root
