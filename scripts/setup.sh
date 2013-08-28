@@ -1,3 +1,13 @@
+f [!(-d bin/)]; then
+mkdir lib
+fi
+if [!(-d lib/)]; then
+mkdir lib
+fi
+if [!(-d obj/)] then
+mkdir lib
+fi
+
 if [ -n "${COMPAREZPEAKS}" ]; then
 echo "already set"
 else
