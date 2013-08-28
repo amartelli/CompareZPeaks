@@ -1,11 +1,11 @@
 f [!(-d bin/)]; then
-mkdir lib
+mkdir bin
 fi
 if [!(-d lib/)]; then
 mkdir lib
 fi
 if [!(-d obj/)] then
-mkdir lib
+mkdir obj
 fi
 
 if [ -n "${COMPAREZPEAKS}" ]; then
