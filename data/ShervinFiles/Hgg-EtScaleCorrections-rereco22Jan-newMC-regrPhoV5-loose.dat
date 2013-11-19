@@ -1,0 +1,23 @@
+A_absEta_0_1-bad	Et    20	33	1.0015		0.000119
+B_absEta_0_1-bad 	Et    33 	39 	1.0008 		0.000085
+C_absEta_0_1-bad 	Et    39 	45 	1.001 		0.000057
+D_absEta_0_1-bad 	Et    45 	50 	1.0006 		0.000070
+E_absEta_0_1-bad 	Et    50 	58 	0.9999 		0.000122
+F_absEta_0_1-bad 	Et    58 	100 	0.9982 		0.000154
+A_absEta_0_1-gold 	Et    20 	35 	1.0017 		0.000145
+B_absEta_0_1-gold 	Et    35 	43 	1.0011 		0.000076
+C_absEta_0_1-gold 	Et    43 	50 	1.0011 		0.000065
+D_absEta_0_1-gold 	Et    50 	55 	1.0008 		0.000160
+E_absEta_0_1-gold 	Et    55 	100 	0.9991 		0.000139
+A_absEta_1_1.4442-bad 	Et    20 	33 	1.0041 		0.000145
+B_absEta_1_1.4442-bad 	Et    33 	39 	1.0018 		0.000136
+C_absEta_1_1.4442-bad 	Et    39 	45 	0.9994 		0.000102
+D_absEta_1_1.4442-bad 	Et    45 	50 	0.997 		0.000135
+E_absEta_1_1.4442-bad 	Et    50 	58 	0.996 		0.000219
+F_absEta_1_1.4442-bad 	Et    58 	100 	0.9951 		0.000264
+A_absEta_1_1.4442-gold 	Et    20 	40 	1.0013		0.000343
+B_absEta_1_1.4442-gold 	Et    40 	50 	1.0016		0.000281
+C_absEta_1_1.4442-gold 	Et    50 	100    	1.0007		0.000489
+
+
+
