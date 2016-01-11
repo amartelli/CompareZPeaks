@@ -1,8 +1,8 @@
-EBlowEtaBad   	0.96  0.03
-EBlowEtaGold  	0.68  0.04
-EBhighEtaBad  	1.85  0.04
-EBhighEtaGold 	1.01  0.14
-EElowEtaBad    	1.85  0.07
-EElowEtaGold   	1.58  0.18
-EEhighEtaBad   	1.83  0.09
-EEhighEtaGold  	2.01  0.06
+EBlowEtaBad   	0.0096  0.0003
+EBlowEtaGold  	0.0068  0.0004
+EBhighEtaBad  	0.0185  0.0004
+EBhighEtaGold 	0.0101  0.0014
+EElowEtaBad    	0.0185  0.0007
+EElowEtaGold    0.0158  0.0018
+EEhighEtaBad   	0.0183  0.0009
+EEhighEtaGold  	0.0201  0.0006
